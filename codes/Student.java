@@ -16,7 +16,7 @@ class Student {
     }
 
     // Method to display details
-    void display() {
+    void display() { 
         System.out.println("Roll No: " + rollNo + ", Name: " + name);
     }
 
